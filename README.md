@@ -20,3 +20,13 @@ $API_KEY = 'wsk-v1-INCOLLA_QUI';
 $DB = ['host' => 'localhost', 'name' => 'cdr', 'user' => 'INCOLLA_UTENTE', 'pass' => 'INCOLLA_PASSWORD'];
 $CURRENT_BUNDLES = 6;            // bundle attuali (WMS -> Call and chat history -> AI+Data Boost, "bundles")
 ```
+
+Lanciare l'app per calcolo bundle compresa trascrizione delle telefonate
+```
+php cds_bundle.php --trascrizioni=yes
+```
+
+Lanciare l'app per calcolo bundle SENZA trascrizione delle telefonate
+```
+php cds_bundle.php --trascrizioni=no
+```
