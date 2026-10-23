@@ -10,7 +10,7 @@ cd /var/_scripts
 
 copiare il file
 ```
-wget -O cds_bundle.php https://raw.githubusercontent.com/canvacanva/NEW-SRL-Wildix-calcolatore-CDS/main/cds_bundle.php
+wget -O cds_bundle.php https://raw.githubusercontent.com/canvacanva/NEW-SRL-Wildix-calcolatore-CDS-bundle/main/cds_bundle.php
 nano cds_bundle.php
 ```
 
