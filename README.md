@@ -10,8 +10,8 @@ cd /var/_scripts
 
 copiare il file
 ```
-wget -O cdr.php https://raw.githubusercontent.com/canvacanva/NEW-SRL-cdr/main/cdr.php
-nano cdr.php
+wget -O cds_bundle.php https://raw.githubusercontent.com/canvacanva/NEW-SRL-Wildix-calcolatore-CDS/main/cds_bundle.php
+nano cds_bundle.php
 ```
 
 Modificare la apikey, user e pass del DB, eventuale valore di bundle attuali
